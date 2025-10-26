@@ -15,7 +15,7 @@ console.log(
       gender: 'female',
     },
     {
-      name: 'Ross Vazquez', a
+      name: 'Ross Vazquez',
       friends: ['Marilyn Mcintosh', 'Padilla Garrison', 'Naomi Buckner'],
       gender: 'male',
     },
